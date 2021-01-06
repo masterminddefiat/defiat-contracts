@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: DEFIAT 2020
+
 pragma solidity ^0.6.2;
 
 // import "./AnyStake_Library.sol";
